@@ -1,0 +1,14 @@
+C:\Users\luiso\source\repos\Guy\bin\Debug\net10.0\Guy.exe
+C:\Users\luiso\source\repos\Guy\bin\Debug\net10.0\Guy.deps.json
+C:\Users\luiso\source\repos\Guy\bin\Debug\net10.0\Guy.runtimeconfig.json
+C:\Users\luiso\source\repos\Guy\bin\Debug\net10.0\Guy.dll
+C:\Users\luiso\source\repos\Guy\bin\Debug\net10.0\Guy.pdb
+C:\Users\luiso\source\repos\Guy\obj\Debug\net10.0\Guy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiso\source\repos\Guy\obj\Debug\net10.0\Guy.AssemblyInfoInputs.cache
+C:\Users\luiso\source\repos\Guy\obj\Debug\net10.0\Guy.AssemblyInfo.cs
+C:\Users\luiso\source\repos\Guy\obj\Debug\net10.0\Guy.csproj.CoreCompileInputs.cache
+C:\Users\luiso\source\repos\Guy\obj\Debug\net10.0\Guy.dll
+C:\Users\luiso\source\repos\Guy\obj\Debug\net10.0\refint\Guy.dll
+C:\Users\luiso\source\repos\Guy\obj\Debug\net10.0\Guy.pdb
+C:\Users\luiso\source\repos\Guy\obj\Debug\net10.0\Guy.genruntimeconfig.cache
+C:\Users\luiso\source\repos\Guy\obj\Debug\net10.0\ref\Guy.dll
