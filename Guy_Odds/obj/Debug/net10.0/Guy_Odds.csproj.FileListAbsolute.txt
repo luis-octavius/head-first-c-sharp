@@ -1,0 +1,14 @@
+C:\Users\luiso\source\repos\Guy_Odds\bin\Debug\net10.0\Guy_Odds.exe
+C:\Users\luiso\source\repos\Guy_Odds\bin\Debug\net10.0\Guy_Odds.deps.json
+C:\Users\luiso\source\repos\Guy_Odds\bin\Debug\net10.0\Guy_Odds.runtimeconfig.json
+C:\Users\luiso\source\repos\Guy_Odds\bin\Debug\net10.0\Guy_Odds.dll
+C:\Users\luiso\source\repos\Guy_Odds\bin\Debug\net10.0\Guy_Odds.pdb
+C:\Users\luiso\source\repos\Guy_Odds\obj\Debug\net10.0\Guy_Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiso\source\repos\Guy_Odds\obj\Debug\net10.0\Guy_Odds.AssemblyInfoInputs.cache
+C:\Users\luiso\source\repos\Guy_Odds\obj\Debug\net10.0\Guy_Odds.AssemblyInfo.cs
+C:\Users\luiso\source\repos\Guy_Odds\obj\Debug\net10.0\Guy_Odds.csproj.CoreCompileInputs.cache
+C:\Users\luiso\source\repos\Guy_Odds\obj\Debug\net10.0\Guy_Odds.dll
+C:\Users\luiso\source\repos\Guy_Odds\obj\Debug\net10.0\refint\Guy_Odds.dll
+C:\Users\luiso\source\repos\Guy_Odds\obj\Debug\net10.0\Guy_Odds.pdb
+C:\Users\luiso\source\repos\Guy_Odds\obj\Debug\net10.0\Guy_Odds.genruntimeconfig.cache
+C:\Users\luiso\source\repos\Guy_Odds\obj\Debug\net10.0\ref\Guy_Odds.dll
